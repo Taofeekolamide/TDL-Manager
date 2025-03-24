@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\TDL Manager\bin\Debug\net9.0\TDL Manager.exe
+C:\Users\USER\Desktop\TDL Manager\bin\Debug\net9.0\TDL Manager.deps.json
+C:\Users\USER\Desktop\TDL Manager\bin\Debug\net9.0\TDL Manager.runtimeconfig.json
+C:\Users\USER\Desktop\TDL Manager\bin\Debug\net9.0\TDL Manager.dll
+C:\Users\USER\Desktop\TDL Manager\bin\Debug\net9.0\TDL Manager.pdb
+C:\Users\USER\Desktop\TDL Manager\obj\Debug\net9.0\TDL Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\TDL Manager\obj\Debug\net9.0\TDL Manager.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\TDL Manager\obj\Debug\net9.0\TDL Manager.AssemblyInfo.cs
+C:\Users\USER\Desktop\TDL Manager\obj\Debug\net9.0\TDL Manager.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TDL Manager\obj\Debug\net9.0\TDL Manager.dll
+C:\Users\USER\Desktop\TDL Manager\obj\Debug\net9.0\refint\TDL Manager.dll
+C:\Users\USER\Desktop\TDL Manager\obj\Debug\net9.0\TDL Manager.pdb
+C:\Users\USER\Desktop\TDL Manager\obj\Debug\net9.0\TDL Manager.genruntimeconfig.cache
+C:\Users\USER\Desktop\TDL Manager\obj\Debug\net9.0\ref\TDL Manager.dll
