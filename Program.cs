@@ -147,35 +147,47 @@ class Program
             Console.WriteLine($"\nDo you want to \n1. Add Task \n2. View Task \n3. Mark Task \n4. Delete task \n5. Exit \n");
             string action = Console.ReadLine().ToLower();
 
-            //exit program
-            if (action == "exit" || action == "5")
+            switch (action)
             {
-                ExitProgram = false;
+                //Task add
+                case "add task":
+                case "add":
+                case "1":
+                    AddTask();
+                    break;
+
+                //view tasks
+                case "view":
+                case "view tasks":
+                case "2":
+                    ViewTask();
+                    break;
+
+                //Delete task
+                case "delete":
+                case "delete tasks":
+                case "4":
+                    DeleteTask();
+                    break;
+
+                //Mark task
+                case "mark":
+                case "mark tasks":
+                case "3":
+                    MarkTask();
+                    break;
+
+                //exit program
+                case "exit":
+                case "5":
+                    ExitProgram = false;
+                    break;
+
+                default:
+                    Console.WriteLine("Invalid choice. Please enter a number between 1 and 5.");
+                    break;
             }
 
-            //Task add
-            if (action == "add" || action == "add task" || action == "1")
-            {
-                AddTask();
-            }
-
-            //view tasks
-            if (action == "view" || action == "view tasks" || action == "view task" || action == "2")
-            {
-                ViewTask();
-            }
-
-            //Mark task
-            if (action == "mark" || action == "mark tasks" || action == "mark task" || action == "3")
-            {
-                MarkTask();
-            }
-
-            //Delete task
-            if (action == "delete" || action == "delete tasks" || action == "delete task" || action == "4")
-            {
-                DeleteTask();
-            }
         }
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TDL Manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40f49f601b3698e263cfbe6f44cf70db5769428b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TDL Manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TDL Manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
